@@ -1,6 +1,9 @@
-# Name of project
+# All About Trees
 
-> A longer description
+This project is about the enviroment and how important trees are. The Tree
+community has longer history than human beings. That means they have more
+memories than us. They play major role for to keep us alive therefore making
+sure that our mother nature is clean and well treated is for our own sake.
 
 ## Table of contents
 
