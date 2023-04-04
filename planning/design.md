@@ -1,10 +1,9 @@
 # Design
 
-We decided to have a simple page, we didn't make plan colors or anything else.
-Prettiness is not a priority for this project.
+We have decided to use this design according to the backlog.
 
 ---
 
-> [wireframe source](https://excalidraw.com/#json=5697932045058048,50g_dMeek8cnpk9dH1teGg)
+> [wireframe source](https://excalidraw.com/#room=bf643f69bc1a13a1ba43,5NcKVhr9JY8X6X-V4t4UfQ)
 
-![wireframe](./wireframe.svg)
+![wireframe](./wireframe.jpg)
