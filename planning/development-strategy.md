@@ -106,5 +106,5 @@ Some more links for students who want to go beyond the basics.
 
 ### Extra Info: CSS
 
-- styling to position the aside
-- styling to style the text
+- styling to position the aside.
+- styling to style the text.
