@@ -31,3 +31,7 @@ body {
 .bottom-divider {
   border-style: none none solid none;
 }
+
+.fascinating-words {
+  font-family: fantasy;
+}
