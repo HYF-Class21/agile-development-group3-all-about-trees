@@ -36,6 +36,10 @@ body {
   font-family: fantasy;
 }
 
+.interesting-things {
+  list-style-type: square;
+}
+
 .aside-info {
   width: 40%;
   padding-left: 0.5rem;
