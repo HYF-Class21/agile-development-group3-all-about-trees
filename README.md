@@ -25,7 +25,7 @@ sure that our mother nature is clean and well treated is for our own sake.
 
 ## General info
 
-> A short description
+Our websites provides some interesting information and facts about trees.
 
 ## Screenshots
 
@@ -36,11 +36,12 @@ sure that our mother nature is clean and well treated is for our own sake.
 - Node 14.16.0
 - VSC code
 - JavaScript
-- ...
-- ...
+- HTML
+- CSS
 
 ## Setup
 
+- install npm packages by `npm i`
 - `npm run start`
 
 ## Code Examples
@@ -54,14 +55,14 @@ console.log("Hello World");
 
 List of features ready and Todos for future development
 
--
--
--
+- Small description.
+- Links for extra information about trees.
 
 To-do list:
 
--
--
+- Add more information.
+- Add social media.
+- Add "Contact Me".
 
 ## Status
 
@@ -73,7 +74,7 @@ Project by freeCodeCamp.org
 
 ## Contact
 
-By [Name]
+HYF-Group #3: hyfg3@hyf.be
 
 ## Instructions for use
 
